@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|c:\\users\\santi\\onedrive\\documentos\\proyecto personal\\proyecto[practica02]\\proyecto[practica02]\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\proyecto[practica02]\\services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\datadll\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\datadll\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\datadll\\interfaces\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\interfaces\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\datadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\datadll\\data\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEA7A8-243E-48FC-AB03-983E41127432}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\data\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\proyecto[practica02]\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\proyecto[practica02]\\services\\iaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\services\\iaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\proyecto[practica02]\\models\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\models\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\proyecto[practica02]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\proyecto[practica02]\\proyecto[practica02].csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CE42AB1-D8E3-4247-80A3-26566B248592}|Proyecto[Practica02]\\Proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\proyecto[practica02].csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Services\\Mapper.cs",
+              "RelativeDocumentMoniker": "Proyecto[Practica02]\\Services\\Mapper.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Services\\Mapper.cs",
+              "RelativeToolTip": "Proyecto[Practica02]\\Services\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:51:05.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto[Practica02]\\Program.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Program.cs*",
+              "RelativeToolTip": "Proyecto[Practica02]\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:25:49.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Data\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Data\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Data\\ArticuloRepository.cs",
+              "RelativeToolTip": "DataDLL\\Data\\ArticuloRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:17:11.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Data\\DataHelper.cs",
+              "RelativeToolTip": "DataDLL\\Data\\DataHelper.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA+wDQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:01:34.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Data\\Parameter.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Data\\Parameter.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Data\\Parameter.cs",
+              "RelativeToolTip": "DataDLL\\Data\\Parameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:01:11.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Interfaces\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Interfaces\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Interfaces\\IArticuloRepository.cs",
+              "RelativeToolTip": "DataDLL\\Interfaces\\IArticuloRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:59:16.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Domain\\Articulo.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Domain\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\DataDLL\\Domain\\Articulo.cs",
+              "RelativeToolTip": "DataDLL\\Domain\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:56:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proyecto[Practica02]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Proyecto[Practica02].csproj",
+              "RelativeDocumentMoniker": "Proyecto[Practica02]\\Proyecto[Practica02].csproj",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Proyecto[Practica02].csproj",
+              "RelativeToolTip": "Proyecto[Practica02]\\Proyecto[Practica02].csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T14:54:53.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Services\\ArticuloService.cs",
+              "RelativeDocumentMoniker": "Proyecto[Practica02]\\Services\\ArticuloService.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Services\\ArticuloService.cs",
+              "RelativeToolTip": "Proyecto[Practica02]\\Services\\ArticuloService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:35:59.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAplication.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Services\\IAplication.cs",
+              "RelativeDocumentMoniker": "Proyecto[Practica02]\\Services\\IAplication.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Services\\IAplication.cs",
+              "RelativeToolTip": "Proyecto[Practica02]\\Services\\IAplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:32:56.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Proyecto[Practica02]\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Proyecto[Practica02]\\Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:25:45.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Models\\Articulos.cs",
+              "RelativeDocumentMoniker": "Proyecto[Practica02]\\Models\\Articulos.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\Proyecto[Practica02]\\Proyecto[Practica02]\\Models\\Articulos.cs",
+              "RelativeToolTip": "Proyecto[Practica02]\\Models\\Articulos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:20:12.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
